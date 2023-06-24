@@ -5,7 +5,7 @@ const formCursos = document.getElementById("form-cursos");
 const home = document.getElementById("home");
 const formularios = document.getElementById("formularios");
 const mostraCards = document.getElementById("mostraCards");
-const label = document.getElementsByTagName("label");//retornaArray
+const label = document.getElementsByTagName("label"); //retornaArray
 
 //Variável cadastros //retornaArray
 const cadastros = document.getElementsByClassName("cadastros");
@@ -178,6 +178,7 @@ const descricao = document.getElementById("textareaDescricao");
 const alunosArr = [];
 const professoresArr = [];
 const cursosArr = [];
+
 
 /*--------------------Classes------------------------------ */
 
